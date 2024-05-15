@@ -2,21 +2,16 @@
 
 Roman numerals are represented by seven different symbols: I, V, X, L, C, D, and M. Here are the corresponding values for each symbol:
 
-Symbol Value
+| Symbol | Value |
+|--------|-------|
+| I      | 1     |
+| V      | 5     |
+| X      | 10    |
+| L      | 50    |
+| C      | 100   |
+| D      | 500   |
+| M      | 1000  |
 
-I                 1
-
-V       5
-
-X      10
-
-L      50
-
-C      100
-
-D      500
-
-M      1000
 
 
 However, Roman numerals have a unique representation system where certain symbols can be placed before others to denote subtraction. For instance, IV represents 4 (5 - 1) and IX represents 9 (10 - 1).
