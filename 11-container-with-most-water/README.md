@@ -12,7 +12,7 @@ Notice that you may not slant the container.
 ### Examples
 
 #### Example 1
-![Example 1 Image](https://assets.leetcode.com/uploads/2021/03/09/container.jpg)
+![Example 1 Image]([https://assets.leetcode.com/uploads/2021/03/09/container.jpg](https://s3-lc-upload.s3.amazonaws.com/uploads/2018/07/17/question_11.jpg))
 
 **Input:** `height = [1,8,6,2,5,4,8,3,7]`  
 **Output:** `49`  
